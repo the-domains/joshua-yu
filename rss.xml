@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Joshua Yu]]></title>
         <description><![CDATA[Joshua Yu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joshua-yu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 18:58:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 19:08:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joshua-yu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The link you followed may have expired, or the page may only be visible to an audience you're not in.</p>]]></description>
+            <link>https://www.facebook.com/photo.php?fbid=10207848690468845&amp;set=a.4417585951449.2173045.1042860016&amp;type=3</link>
+            <guid isPermaLink="false">c164b846-a630-41e4-a4df-06b124144a9d</guid>
+            <pubDate>Tue, 22 Mar 2016 19:08:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World!</p>]]></description>
-            <link>undefined4c8f495d-be5e-4cc2-8879-9597ff9b3a7c/index.html</link>
+            <link>https://thegrid.ai/joshua-yu/4c8f495d-be5e-4cc2-8879-9597ff9b3a7c/index.html</link>
             <guid isPermaLink="false">4c8f495d-be5e-4cc2-8879-9597ff9b3a7c</guid>
             <pubDate>Tue, 22 Mar 2016 18:58:35 GMT</pubDate>
         </item>
